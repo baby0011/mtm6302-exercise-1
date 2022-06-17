@@ -1,1 +1,3 @@
-# mtm6302-exercise-1
+
+John Baby
+041023967
